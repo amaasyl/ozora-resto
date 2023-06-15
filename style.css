@@ -15,7 +15,6 @@ body{
 }
 .top{
     background: url(images/background-atas_01.jpg);
-    min-height: 619px;
     background-repeat: no-repeat;
 }
 .title{
