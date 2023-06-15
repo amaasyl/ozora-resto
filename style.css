@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(218, 243, 245, 0.608);
+}
+#wrapper {
+    width: 100%;
+    max-width: 990px;
+    background:url(images/bg.jpg);
+    background-repeat: repeat;
+    margin: 0 auto;
+}
+.top{
+    background: url(images/background-atas_01.jpg);
+    min-height: 619px;
+    background-repeat: no-repeat;
+}
+.title{
+    padding-right: 68px;
+}
