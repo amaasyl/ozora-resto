@@ -21,3 +21,94 @@ body{
     padding-left: 68px;
     text-align: center;
 }
+#content{
+    width: 100%;
+    max-width: 990px;
+    background:url(images/bg.jpg);
+    background-repeat: repeat;
+    margin: 0 auto;
+    min-height: 2665px;
+}
+#kare-title{
+    position: relative;
+    top: 98px;
+    text-align: center;
+    padding-left: 420px;
+}
+#kare-menu{
+    position: relative;
+    top:0px;
+    float: left;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+    padding-left: 420px;
+    margin-top: 98px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+ul{
+    list-style-type: none;
+    margin:25px;
+    padding:0px;
+    font-size: 26px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding-left: 420px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+/*ini ramen*/
+#ramen-title{
+    position: relative;
+    top: 98px;
+    text-align: left;
+    padding-right: 420px;
+}
+#ramen-menu{
+    position: relative;
+    top:0px;
+    float: right;
+}
+#menu02 ul{
+        list-style-type: none;
+        margin:80px;
+        padding:20px;
+        margin-left: 20;
+        font-size: 26px;
+        font-family: 'Kosugi Maru', sans-serif;
+}
+/*salmon*/
+#hitsumaboshi-title{
+    position: relative;
+    top: 98px;
+    text-align: center;
+    padding-left: 420px;
+}
+#hitsumaboshi-menu{
+    position: relative;
+    top:0px;
+    float: left;
+}
+#menu03 h2{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+    padding-left: 420px;
+    margin-top: 98px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+#menu03 ul{
+    list-style-type: none;
+    margin:25px;
+    padding:0px;
+    font-size: 26px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+#menu03 p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding-left: 420px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
